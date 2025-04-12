@@ -2,7 +2,7 @@
 
 A powerful Streamlit application that enables natural language conversations with multiple PDF documents. Built with LangChain and powered by DeepSeek AI through OpenRouter, this tool allows you to upload various PDFs and get intelligent responses to your questions about their content. Perfect for researchers, students, and professionals who need to extract information from multiple documents quickly.
 
-![Application Architecture](PDF-LangChain.jpg)
+![Application Architecture](Architecture.png)
 
 ## Features
 
