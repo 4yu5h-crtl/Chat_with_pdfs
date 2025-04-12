@@ -25,7 +25,7 @@ if "vector_store" not in st.session_state:
     st.session_state.vector_store = None
 
 # OpenRouter API configuration
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "your-api-key"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 def process_pdfs(pdf_files: List[st.runtime.uploaded_file_manager.UploadedFile]) -> None:
